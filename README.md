@@ -5,12 +5,12 @@
 
 
 
-- <h5>🌱 I’m Interested to work on **Web 3.0**
-- <h5>💬 Ask me about **Technology**
-- <h5>👯 I’m making the world better by **PRs**
-- <h5>📫 How to reach me **chayanbain4@gmail.com**
-- <h5>👨‍💻 All of my projects are available at (https://chayanportfolio.netlify.app/)
-- <h5>⚡ Fun fact **I'm currently studying MCA Computer Application**
+- <h5>🌱 I’m Interested to work on Web 3.0
+- <h5>💬 Ask me about Technology
+- <h5>👯 I’m making the world better by PRs
+- <h5>📫 How to reach me chayanbain4@gmail.com
+- <h5>👨‍💻 All of my projects are available at https://chayanportfolio.netlify.app/
+- <h5>⚡ Fun fact: I'm currently studying MCA Computer Application
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
