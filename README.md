@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/chayanbain4?logo=github&style=for-t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayanbain4&label=Profile%20views&color=0e75b6&style=flat" alt="chayanbain4" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/your_instagram_username/" target="blank"><img src="https://img.shields.io/badge/Follow @chayan_r__--%23bc2a8d?style=for-the-badge&logo=instagram" alt="your_instagram_username" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/chayan_r__/" target="blank"><img src="https://img.shields.io/badge/Follow @chayan_r__--%23bc2a8d?style=for-the-badge&logo=instagram" alt="your_instagram_username" /></a> </p>
 
 
 <h3 align="left">Languages:</h3>
