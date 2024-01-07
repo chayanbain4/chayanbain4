@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology
 - 📫 How to reach me: chayanbain3@gmail.com
-- ⚡ Fun fact: I'm currently studying MCA Computer Application
+- ⚡ Fun fact: I'm currently studying MCA in Computer Application
 
 <a href="https://github.com/chayanbain4/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chayanbain4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
