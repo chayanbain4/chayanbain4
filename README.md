@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 I’m Interested to work on Web 3.0
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology
-- 📫 How to reach me: chayanbain3@gmail.com
+- 📫 How to reach me: chayanbain4@gmail.com
 - ⚡ Fun fact: I'm currently studying MCA in Computer Application
 
 <a href="https://github.com/chayanbain4/" target="_blank" rel="noreferrer"><img
