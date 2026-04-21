@@ -1,19 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is chayan Bain
-======================================================================================================================================
-<h4>Web developer | Front End Developer</h4>
+Hi 
 
-- 🔭 I’m currently working on a Small Project
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+ My name is Chayan Bain
+======================================================================================================================================
+
+<h4>Full Stack Developer | Mobile Application Developer</h4>
+
+- 🔭 I'm currently working at **iwebgenics Private Limited** as a **Full Stack Developer & Mobile Application Developer**
+- 🌱 I'm Interested in **Web 3.0** and modern mobile technologies
+- 👯 I'm making the world better by PRs
+- 💬 Ask me about **Technology, Full Stack Development & Mobile Apps**
 - 📫 How to reach me: chayanbain4@gmail.com
-- ⚡ Fun fact: I'm currently studying MCA in Computer Application
+- ⚡ Fun fact: I'm currently pursuing **MCA in Computer Application**
 
 <a href="https://github.com/chayanbain4/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chayanbain4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayanbain4&label=Profile%20views&color=0e75b6&style=flat" alt="chayanbain4" /> </p>
-
 <p align="left"> <a href="https://www.instagram.com/chayan_r__/" target="blank"><img src="https://img.shields.io/badge/Follow @chayan_r__--%23bc2a8d?style=for-the-badge&logo=instagram" alt="your_instagram_username" /></a> </p>
 
 
