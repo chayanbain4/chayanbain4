@@ -39,7 +39,7 @@
         <tr><td>🎓 <strong>Education</strong></td><td>MCA — Master of Computer Applications</td></tr>
         <tr><td>💡 <strong>Interests</strong></td><td>Web 3.0 · Mobile Apps · Open Source</td></tr>
         <tr><td>📧 <strong>Email</strong></td><td>chayanbain4@gmail.com</td></tr>
-        <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="https://chayanportfolio.netlify.app/">chayanportfolio.netlify.app</a></td></tr>
+        <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="https://chayanbain.in/">chayanportfolio.netlify.app</a></td></tr>
       </table>
     </td>
   </tr>
@@ -153,7 +153,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chayanportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chayanbain.in/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chayanbain4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chayanbain4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chayan_r__)
