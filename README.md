@@ -66,6 +66,27 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/chayanbain4/Realtimechat">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=Realtimechat&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=f59e0b&text_color=94a3b8"/>
+</a>
+<a href="https://github.com/chayanbain4/Calculator">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=Calculator&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=f59e0b&text_color=94a3b8"/>
+</a>
+
+<a href="https://github.com/chayanbain4/Portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=f59e0b&text_color=94a3b8"/>
+</a>
+
+</div>
+
+> 💡 **Tip:** Replace the repo names above with your actual repo names from GitHub to show the right cards!
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -148,7 +169,5 @@
 ---
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=120&section=footer"/>
-
 </div>
