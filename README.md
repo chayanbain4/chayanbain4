@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0891b2,100:0f172a&amp;height=220&amp;section=header&amp;text=Chayan+Bain&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full+Stack+%7C+Android+%26+Mobile+App+Developer&amp;descAlignY=58&amp;descSize=22&amp;descColor=94a3b8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=220&section=header&text=Chayan+Bain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+Stack+%7C+Android+%26+Mobile+App+Developer&descAlignY=58&descSize=22&descColor=94a3b8"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=0891B2&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Full+Stack+Developer+%F0%9F%9A%80;Android+%26+Mobile+App+Developer+%F0%9F%93%B1;Web+3.0+Enthusiast+%E2%9B%93;1%2B+Years+of+Experience+%F0%9F%92%BC;Building+at+iwebgenics+Pvt+Ltd+%F0%9F%8F%A2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Android+%26+Mobile+App+Developer+%F0%9F%93%B1;Web+3.0+Enthusiast+%E2%9B%93;1%2B+Years+of+Experience+%F0%9F%92%BC;Building+at+iwebgenics+Pvt+Ltd+%F0%9F%8F%A2" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=chayanbain4&amp;label=Profile+Views&amp;color=0891b2&amp;style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=chayanbain4&label=Profile+Views&color=0891b2&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/chayanbain4?tab=followers">
-  <img src="https://img.shields.io/github/followers/chayanbain4?logo=github&amp;style=for-the-badge&amp;color=0891b2&amp;labelColor=0f172a&amp;label=Followers"/>
+  <img src="https://img.shields.io/github/followers/chayanbain4?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a&label=Followers"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Experience-1%2B%20Years-0891b2?style=for-the-badge&amp;logo=briefcase&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Experience-1%2B%20Years-0891b2?style=for-the-badge&logo=briefcase&logoColor=white"/>
 
 </div>
 
@@ -60,7 +60,7 @@
 **What I do there:**
 
 - 🔨 Building scalable **full-stack web applications**
-- 📱 Developing **cross-platform mobile apps** using Flutter & Dart
+- 📱 Developing **cross-platform mobile apps** using Flutter &amp; Dart
 - 🔗 Working with **REST APIs**, **Firebase**, and modern backend systems
 - 🧩 Collaborating in **Agile teams** delivering production-ready products
 
@@ -71,14 +71,14 @@
 <div align="center">
 
 <a href="https://github.com/chayanbain4/Game">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&amp;repo=Game&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=0891b2&amp;icon_color=f59e0b&amp;text_color=94a3b8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=Game&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=f59e0b&text_color=94a3b8"/>
 </a>
 <a href="https://github.com/chayanbain4/Encrypted-Chat">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&amp;repo=Encrypted-Chat&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=0891b2&amp;icon_color=f59e0b&amp;text_color=94a3b8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=Encrypted-Chat&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=f59e0b&text_color=94a3b8"/>
 </a>
 
 <a href="https://github.com/chayanbain4/Portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&amp;repo=Portfolio&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=0891b2&amp;icon_color=f59e0b&amp;text_color=94a3b8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=f59e0b&text_color=94a3b8"/>
 </a>
 
 </div>
@@ -134,12 +134,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chayanbain4&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=0891b2&amp;icon_color=0891b2&amp;text_color=94a3b8&amp;rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chayanbain4&amp;theme=tokyonight&amp;hide_border=true&amp;background=0f172a&amp;ring=0891b2&amp;fire=f59e0b&amp;currStreakLabel=0891b2"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chayanbain4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&rank_icon=github"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chayanbain4&theme=tokyonight&hide_border=true&background=0f172a&ring=0891b2&fire=f59e0b&currStreakLabel=0891b2"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanbain4&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=0891b2&amp;text_color=94a3b8"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanbain4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=94a3b8"/>
 
 </div>
 
@@ -148,7 +148,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chayanbain4&amp;bg_color=0f172a&amp;color=0891b2&amp;line=0891b2&amp;point=f59e0b&amp;area=true&amp;hide_border=true&amp;radius=8"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chayanbain4&bg_color=0f172a&color=0891b2&line=0891b2&point=f59e0b&area=true&hide_border=true&radius=8"/>
 </div>
 
 ---
@@ -164,12 +164,12 @@
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" width="70%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
 </div>
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:0891b2&amp;height=120&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=120&section=footer"/>
 </div>
