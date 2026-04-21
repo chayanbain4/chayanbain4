@@ -1,116 +1,165 @@
-Hi 
+<div align="center">
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=200&section=header&text=Chayan%20Bain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20Application%20Developer&descAlignY=60&descSize=20&descColor=94a3b8"/>
 
- My name is Chayan Bain
-======================================================================================================================================
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Web+3.0+Enthusiast+%E2%9B%93;1%2B+Years+of+Experience+%F0%9F%92%BC;Building+at+iwebgenics+Pvt+Ltd+%F0%9F%8F%A2" alt="Typing SVG" />
+</a>
 
-<h4>Full Stack Developer | Mobile Application Developer</h4>
+<br/>
 
-- 🔭 I'm currently working at **iwebgenics Private Limited** as a **Full Stack Developer & Mobile Application Developer**
-- 🌱 I'm Interested in **Web 3.0** and modern mobile technologies
-- 👯 I'm making the world better by PRs
-- 💬 Ask me about **Technology, Full Stack Development & Mobile Apps**
-- 📫 How to reach me: chayanbain4@gmail.com
-- ⚡ Fun fact: I'm currently pursuing **MCA in Computer Application**
-
-<a href="https://github.com/chayanbain4/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/chayanbain4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chayanbain4&label=Profile%20views&color=0e75b6&style=flat" alt="chayanbain4" /> </p>
-<p align="left"> <a href="https://www.instagram.com/chayan_r__/" target="blank"><img src="https://img.shields.io/badge/Follow @chayan_r__--%23bc2a8d?style=for-the-badge&logo=instagram" alt="your_instagram_username" /></a> </p>
-
-
-<h3 align="left">Languages:</h3>
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=chayanbain4&label=Profile+Views&color=0891b2&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/chayanbain4?tab=followers">
+    <img src="https://img.shields.io/github/followers/chayanbain4?logo=github&style=flat-square&color=0891b2&labelColor=1c1917&label=Followers" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/>
-  </a>
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/>
-  </a>
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/>
-  </a> 
+  &nbsp;
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Years-0891b2?style=flat-square&logo=briefcase&logoColor=white"/>
 </p>
 
+</div>
 
+---
 
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/>
-  </a>
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/>
-  </a>
+## 🧑‍💻 About Me
 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
+```typescript
+const chayan = {
+  name        : "Chayan Bain",
+  role        : ["Full Stack Developer", "Mobile Application Developer"],
+  company     : "iwebgenics Private Limited",
+  location    : "Kolkata, India 🇮🇳",
+  education   : "MCA — Master of Computer Applications",
+  portfolio   : "https://chayanportfolio.netlify.app/",
+  email       : "chayanbain4@gmail.com",
+  interests   : ["Web 3.0", "Mobile Apps", "Open Source"],
+  funFact     : "Making Unreal Possible 🚀",
+};
+```
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-    <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
+---
+
+## 💼 Work Experience
+
+<table>
+<tr>
+<td>
+
+**🏢 iwebgenics Private Limited**
+📅 2024 – Present &nbsp; | &nbsp; 📍 Kolkata, India
+
+- 🔨 Building scalable **full-stack web applications**
+- 📱 Developing **cross-platform mobile apps** using Flutter & Dart
+- 🔗 Working with **REST APIs**, **Firebase**, and modern backend systems
+- 🧩 Collaborating in Agile teams delivering production-ready products
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Languages
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
+### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/chayanbain4"><img src="https://github-readme-stats.vercel.app/api?username=chayanbain4&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chayanbain4's GitHub stats" /></a>
+## 📊 GitHub Stats
 
-<a href="http://www.github.com/chayanbain4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chayanbain4&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
 
-<a href="http://www.github.com/chayanbain4">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chayanbain4&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chayanbain4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&rank_icon=github"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chayanbain4&theme=tokyonight&hide_border=true&background=0f172a&ring=0891b2&fire=f59e0b&currStreakLabel=0891b2"/>
 
-<a href="https://github.com/chayanbain4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanbain4&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br/>
 
-<b>Top Repositories</b>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanbain4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=94a3b8"/>
 
-<div width="100%" align="center"><a href="https://github.com/chayanbain4/Portfolio_website_Js" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=Portfolio_website_Js&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/chayanbain4/todoList_JS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=todoList_JS&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chayanbain4&theme=tokyonight&no-frame=true&column=6&margin-w=10"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayanbain4&bg_color=0f172a&color=0891b2&line=0891b2&point=f59e0b&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chayanportfolio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chayanbain4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chayanbain4)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chayan_r__)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chayanbain4/chayanbain4/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chayanbain4/chayanbain4/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/chayanbain4/chayanbain4/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=120&section=footer"/>
+
+</div>
