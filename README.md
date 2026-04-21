@@ -28,27 +28,15 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-interface Developer {
-  name      : string;
-  role      : string[];
-  company   : string;
-  location  : string;
-  education : string;
-  portfolio : string;
-  email     : string;
-  interests : string[];
-  funFact   : string;
-}
-
-const chayan: Developer = {
+const chayan = {
   name        : "Chayan Bain",
-  role        : ["Full Stack Developer", "Mobile Application Developer"],
+  role        : "Full Stack Developer | Mobile Application Developer",
   company     : "iwebgenics Private Limited",
   location    : "Kolkata, India 🇮🇳",
   education   : "MCA — Master of Computer Applications",
   portfolio   : "https://chayanportfolio.netlify.app/",
   email       : "chayanbain4@gmail.com",
-  interests   : ["Web 3.0", "Mobile Apps", "Open Source"],
+  interests   : "Web 3.0 | Mobile Apps | Open Source",
   funFact     : "Making Unreal Possible 🚀",
 };
 ```
@@ -138,7 +126,7 @@ const chayan: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chayanbain4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=chayanbain4&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15"/>
 </div>
 
 ---
