@@ -1,6 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0891b2,100:0f172a&amp;height=220&amp;section=header&amp;text=Chayan%20Bain&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20%7C%20Android%20%26%20Mobile%20App%20Developer&amp;descAlignY=58&amp;descSize=22&amp;descColor=94a3b8" width="100%" alt="Chayan Bain" />
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=220&section=header&text=Chayan+Bain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+Stack+%7C+Android+%26+Mobile+App+Developer&descAlignY=58&descSize=22&descColor=94a3b8)
+<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Android+%26+Mobile+App+Developer+%F0%9F%93%B1;Web+3.0+Enthusiast+%E2%9B%93;1%2B+Years+of+Experience+%F0%9F%92%BC;Building+at+iwebgenics+Pvt+Ltd+%F0%9F%8F%A2" alt="Typing SVG" />
@@ -149,7 +151,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chayanbain4&bg_color=0f172a&color=0891b2&line=0891b2&point=f59e0b&area=true&hide_border=true&radius=8)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chayanbain4&bg_color=0f172a&color=0891b2&line=0891b2&point=f59e0b&area=true&hide_border=true&radius=8"/>
 
 </div>
 
@@ -162,18 +164,16 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chayanbain.in/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chayanbain4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chayanbain4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chayan_r__)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chayan_r__)
 
 <br/><br/>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=120&section=footer)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:0891b2&amp;height=120&amp;section=footer" width="100%" alt="footer" />
+</p>
