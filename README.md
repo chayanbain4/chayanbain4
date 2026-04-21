@@ -39,7 +39,7 @@
         <tr><td>🎓 <strong>Education</strong></td><td>MCA — Master of Computer Applications</td></tr>
         <tr><td>💡 <strong>Interests</strong></td><td>Web 3.0 · Mobile Apps · Open Source</td></tr>
         <tr><td>📧 <strong>Email</strong></td><td>chayanbain4@gmail.com</td></tr>
-        <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="https://chayanbain.in/">chayanportfolio.netlify.app</a></td></tr>
+        <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="https://chayanbain.in/">chayanbain.in</a></td></tr>
       </table>
     </td>
   </tr>
