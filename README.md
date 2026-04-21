@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=220&section=header&text=Chayan%20Bain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20Application%20Developer&descAlignY=58&descSize=22&descColor=94a3b8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=220&section=header&text=Chayan%20Bain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Android%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=22&descColor=94a3b8"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Web+3.0+Enthusiast+%E2%9B%93;1%2B+Years+of+Experience+%F0%9F%92%BC;Building+at+iwebgenics+Pvt+Ltd+%F0%9F%8F%A2" alt="Typing SVG" />
@@ -28,7 +28,7 @@
   <tr>
     <td width="50%">
       <h3>👋 Hi, I'm Chayan!</h3>
-      <p>A passionate <strong>Full Stack & Mobile Developer</strong> from Kolkata, India. I love building scalable web apps and cross-platform mobile experiences.</p>
+      <p>A passionate <strong>Full Stack & Android & Mobile App Developer</strong> from Kolkata, India. I love building scalable web apps and cross-platform mobile experiences.</p>
       <p>Currently working at <strong>iwebgenics Private Limited</strong>, crafting production-ready products with modern technologies.</p>
       <p>⚡ <em>Making Unreal Possible 🚀</em></p>
     </td>
@@ -53,7 +53,7 @@
 
 | 🏢 Company | 📅 Duration | 📍 Location | 💼 Role |
 |:---|:---|:---|:---|
-| **iwebgenics Private Limited** | 2024 – Present | Kolkata, India | Full Stack Developer |
+| **iwebgenics Private Limited** | 2024 – Present | Kolkata, India | Full Stack | Android & Mobile App Developer |
 
 </div>
 
