@@ -70,11 +70,11 @@
 
 <div align="center">
 
-<a href="https://github.com/chayanbain4/Realtimechat">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=Realtimechat&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=f59e0b&text_color=94a3b8"/>
+<a href="https://github.com/chayanbain4/Game">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=Game&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=f59e0b&text_color=94a3b8"/>
 </a>
-<a href="https://github.com/chayanbain4/Calculator">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=Calculator&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=f59e0b&text_color=94a3b8"/>
+<a href="https://github.com/chayanbain4/Encrypted-Chat">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chayanbain4&repo=Encrypted-Chat&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=f59e0b&text_color=94a3b8"/>
 </a>
 
 <a href="https://github.com/chayanbain4/Portfolio">
@@ -82,8 +82,6 @@
 </a>
 
 </div>
-
-> 💡 **Tip:** Replace the repo names above with your actual repo names from GitHub to show the right cards!
 
 ---
 
