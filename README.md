@@ -27,19 +27,15 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const chayan = {
-  name        : "Chayan Bain",
-  role        : "Full Stack Developer | Mobile Application Developer",
-  company     : "iwebgenics Private Limited",
-  location    : "Kolkata, India 🇮🇳",
-  education   : "MCA — Master of Computer Applications",
-  portfolio   : "https://chayanportfolio.netlify.app/",
-  email       : "chayanbain4@gmail.com",
-  interests   : "Web 3.0 | Mobile Apps | Open Source",
-  funFact     : "Making Unreal Possible 🚀",
-};
-```
+- 👤 **Name** : Chayan Bain
+- 💼 **Role** : Full Stack Developer | Mobile Application Developer
+- 🏢 **Company** : iwebgenics Private Limited
+- 📍 **Location** : Kolkata, India 🇮🇳
+- 🎓 **Education** : MCA — Master of Computer Applications
+- 🌐 **Portfolio** : [chayanportfolio.netlify.app](https://chayanportfolio.netlify.app/)
+- 📧 **Email** : chayanbain4@gmail.com
+- 💡 **Interests** : Web 3.0 | Mobile Apps | Open Source
+- 🚀 **Fun Fact** : Making Unreal Possible 🚀
 
 ---
 
